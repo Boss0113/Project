@@ -1,6 +1,6 @@
 include<stdio.h>
 int main()
 {
-printf("Boss des Boss, Billionaire");
-return 0;
+    printf("Boss des Boss, Billionaire");
+    return 0;
 }
