@@ -9,4 +9,8 @@ Some Description
 
 ## Subheader
 
-Watch me improve everyday my skills to rich my objectives.
+Watch me improve everyday my skills to reach my objectives.
+
+## Local Work
+
+Open the C and C++ files in your local computer
